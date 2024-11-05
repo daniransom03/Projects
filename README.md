@@ -1,0 +1,1 @@
+This project was completed by myself in accordance with the U15's QPR academy coach. He was interested in getting some data around penalty box entries from 3 games. I then gathered the data using Angles and HUDL Sportscode and created the presentation.
